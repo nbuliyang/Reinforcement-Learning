@@ -8,7 +8,7 @@ pip install paddlepaddle==1.6.3 -i  http://mirrors.aliyun.com/pypi/simple/ --tru
 pip install parl==1.3.1 -i  http://mirrors.aliyun.com/pypi/simple/ --trusted-host mirrors.aliyun.com  
 pip install gym  
 2.游戏代码库：  
-flappy代码库：https://github.com/ntasfi/PyGame-Learning-Environment
+Jump代码库：https://github.com/shivaverma/Orbit 
 
 二、代码说明  
 1.算法  
@@ -17,7 +17,7 @@ flappy代码库：https://github.com/ntasfi/PyGame-Learning-Environment
 主要是和环境交互的部分要修改下才能用：  
 obs,action这两个部分  
 三、运行结果  
-1.代码几乎不用修改就可以得到高分。reward 4000+
+1.reward 50+
 
 ![avatar](./evaluate.png)
 ![avatar](./show.gif)
