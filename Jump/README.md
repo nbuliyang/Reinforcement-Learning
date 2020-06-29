@@ -19,7 +19,7 @@ obs,action这两个部分
 三、运行结果  
 1.reward 50+
 
-![avatar](./evaluate.png)
+![avatar](./evaluate2.png)
 ![avatar](./show.gif)
 
 
